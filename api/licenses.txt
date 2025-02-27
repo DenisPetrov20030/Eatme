@@ -1,0 +1,1870 @@
+├─ @cspotcode/source-map-support@0.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cspotcode/node-source-map-support
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@cspotcode\source-map-support
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@cspotcode\source-map-support\LICENSE.md
+├─ @isaacs/cliui@8.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\LICENSE.txt
+├─ @jridgewell/resolve-uri@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/resolve-uri
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@jridgewell\resolve-uri
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@jridgewell\resolve-uri\LICENSE
+├─ @jridgewell/sourcemap-codec@1.4.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemap-codec
+│  ├─ publisher: Rich Harris
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@jridgewell\sourcemap-codec
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@jridgewell\sourcemap-codec\LICENSE
+├─ @jridgewell/trace-mapping@0.3.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/trace-mapping
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@jridgewell\trace-mapping
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@jridgewell\trace-mapping\LICENSE
+├─ @mapbox/node-pre-gyp@1.0.11
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mapbox/node-pre-gyp
+│  ├─ publisher: Dane Springmeyer
+│  ├─ email: dane@mapbox.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@mapbox\node-pre-gyp
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@mapbox\node-pre-gyp\LICENSE
+├─ @pkgjs/parseargs@0.11.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pkgjs/parseargs
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@pkgjs\parseargs
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@pkgjs\parseargs\LICENSE
+├─ @sqltools/formatter@1.2.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mtxr/vscode-sqltools
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@sqltools\formatter
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@sqltools\formatter\LICENSE
+├─ @tsconfig/node10@1.0.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tsconfig/bases
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node10
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node10\LICENSE
+├─ @tsconfig/node12@1.0.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tsconfig/bases
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node12
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node12\LICENSE
+├─ @tsconfig/node14@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tsconfig/bases
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node14
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node14\LICENSE
+├─ @tsconfig/node16@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tsconfig/bases
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node16
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@tsconfig\node16\LICENSE
+├─ @types/bcrypt@5.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\bcrypt
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\bcrypt\LICENSE
+├─ @types/body-parser@1.19.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\body-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\body-parser\LICENSE
+├─ @types/connect@3.4.38
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\connect
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\connect\LICENSE
+├─ @types/cookie-parser@1.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\cookie-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\cookie-parser\LICENSE
+├─ @types/cors@2.8.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\cors
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\cors\LICENSE
+├─ @types/express-serve-static-core@4.19.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\express-serve-static-core
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\express-serve-static-core\LICENSE
+├─ @types/express@4.17.21
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\express
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\express\LICENSE
+├─ @types/http-errors@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\http-errors
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\http-errors\LICENSE
+├─ @types/jsonwebtoken@9.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\jsonwebtoken
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\jsonwebtoken\LICENSE
+├─ @types/mime@1.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\mime
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\mime\LICENSE
+├─ @types/node@16.18.98
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\node
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\node\LICENSE
+├─ @types/qs@6.9.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\qs
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\qs\LICENSE
+├─ @types/range-parser@1.2.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\range-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\range-parser\LICENSE
+├─ @types/send@0.17.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\send
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\send\LICENSE
+├─ @types/serve-static@1.15.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\serve-static
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\serve-static\LICENSE
+├─ @types/validator@13.11.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\validator
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@types\validator\LICENSE
+├─ abbrev@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/abbrev-js
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\abbrev
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\abbrev\LICENSE
+├─ accepts@1.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/accepts
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\accepts
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\accepts\LICENSE
+├─ acorn-walk@8.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/acornjs/acorn
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\acorn-walk
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\acorn-walk\LICENSE
+├─ acorn@8.11.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/acornjs/acorn
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\acorn
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\acorn\LICENSE
+├─ agent-base@6.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-agent-base
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\agent-base
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\agent-base\README.md
+├─ ansi-regex@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ansi-regex
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ansi-regex\license
+├─ ansi-regex@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\ansi-regex
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\ansi-regex\license
+├─ ansi-styles@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ansi-styles
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ansi-styles\license
+├─ ansi-styles@6.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\ansi-styles
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\ansi-styles\license
+├─ any-promise@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevinbeaty/any-promise
+│  ├─ publisher: Kevin Beaty
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\any-promise
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\any-promise\LICENSE
+├─ anymatch@3.1.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/micromatch/anymatch
+│  ├─ publisher: Elan Shanker
+│  ├─ url: https://github.com/es128
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\anymatch
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\anymatch\LICENSE
+├─ app-root-path@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inxilpro/node-app-root-path
+│  ├─ publisher: Chris Morrell
+│  ├─ email: http://cmorrell.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\app-root-path
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\app-root-path\LICENSE
+├─ aproba@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/aproba
+│  ├─ publisher: Rebecca Turner
+│  ├─ email: me@re-becca.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\aproba
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\aproba\LICENSE
+├─ are-we-there-yet@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/are-we-there-yet
+│  ├─ publisher: GitHub Inc.
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\are-we-there-yet
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\are-we-there-yet\LICENSE.md
+├─ arg@4.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/arg
+│  ├─ publisher: Josh Junon
+│  ├─ email: junon@zeit.co
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\arg
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\arg\LICENSE.md
+├─ array-flatten@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/blakeembrey/array-flatten
+│  ├─ publisher: Blake Embrey
+│  ├─ email: hello@blakeembrey.com
+│  ├─ url: http://blakeembrey.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\array-flatten
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\array-flatten\LICENSE
+├─ balanced-match@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\balanced-match
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\balanced-match\LICENSE.md
+├─ base64-js@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/beatgammit/base64-js
+│  ├─ publisher: T. Jameson Little
+│  ├─ email: t.jameson.little@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\base64-js
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\base64-js\LICENSE
+├─ bcrypt@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kelektiv/node.bcrypt.js
+│  ├─ publisher: Nick Campbell
+│  ├─ url: https://github.com/ncb000gt
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\bcrypt
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\bcrypt\LICENSE
+├─ binary-extensions@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/binary-extensions
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\binary-extensions
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\binary-extensions\license
+├─ body-parser@1.20.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/body-parser
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\body-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\body-parser\LICENSE
+├─ brace-expansion@1.1.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\brace-expansion
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\brace-expansion\LICENSE
+├─ brace-expansion@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\brace-expansion
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\brace-expansion\LICENSE
+├─ braces@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/braces
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\braces
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\braces\LICENSE
+├─ buffer-equal-constant-time@1.0.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/goinstant/buffer-equal-constant-time
+│  ├─ publisher: GoInstant Inc., a salesforce.com company
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\buffer-equal-constant-time
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\buffer-equal-constant-time\LICENSE.txt
+├─ buffer@6.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\buffer
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\buffer\LICENSE
+├─ bytes@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/bytes.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\bytes
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\bytes\LICENSE
+├─ call-bind@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bind
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\call-bind
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\call-bind\LICENSE
+├─ chalk@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chalk
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chalk\license
+├─ chokidar@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/chokidar
+│  ├─ publisher: Paul Miller
+│  ├─ url: https://paulmillr.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chokidar
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chokidar\LICENSE
+├─ chownr@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/chownr
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chownr
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chownr\LICENSE
+├─ class-validator@0.14.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/typestack/class-validator
+│  ├─ publisher: TypeStack contributors
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\class-validator
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\class-validator\LICENSE
+├─ cli-highlight@2.1.11
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/felixfbecker/cli-highlight
+│  ├─ publisher: Felix Becker
+│  ├─ email: felix.b@outlook.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight\LICENSE.txt
+├─ cliui@7.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight\node_modules\cliui
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight\node_modules\cliui\LICENSE.txt
+├─ cliui@8.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cliui
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cliui\LICENSE.txt
+├─ color-convert@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qix-/color-convert
+│  ├─ publisher: Heather Arthur
+│  ├─ email: fayearthur@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\color-convert
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\color-convert\LICENSE
+├─ color-name@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/colorjs/color-name
+│  ├─ publisher: DY
+│  ├─ email: dfcreative@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\color-name
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\color-name\LICENSE
+├─ color-support@1.1.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/color-support
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\color-support
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\color-support\LICENSE
+├─ concat-map@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-concat-map
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\concat-map
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\concat-map\LICENSE
+├─ console-control-strings@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/console-control-strings
+│  ├─ publisher: Rebecca Turner
+│  ├─ email: me@re-becca.org
+│  ├─ url: http://re-becca.org/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\console-control-strings
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\console-control-strings\LICENSE
+├─ content-disposition@0.5.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-disposition
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\content-disposition
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\content-disposition\LICENSE
+├─ content-type@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-type
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\content-type
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\content-type\LICENSE
+├─ cookie-parser@1.4.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/cookie-parser
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cookie-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cookie-parser\LICENSE
+├─ cookie-signature@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-cookie-signature
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@learnboost.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cookie-signature
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cookie-signature\Readme.md
+├─ cookie@0.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ publisher: Roman Shtylman
+│  ├─ email: shtylman@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cookie
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cookie\LICENSE
+├─ cookie@0.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ publisher: Roman Shtylman
+│  ├─ email: shtylman@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\express\node_modules\cookie
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\express\node_modules\cookie\LICENSE
+├─ cors@2.8.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/cors
+│  ├─ publisher: Troy Goode
+│  ├─ email: troygoode@gmail.com
+│  ├─ url: https://github.com/troygoode/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cors
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cors\LICENSE
+├─ create-require@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nuxt-contrib/create-require
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\create-require
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\create-require\LICENSE
+├─ cross-spawn@7.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/moxystudio/node-cross-spawn
+│  ├─ publisher: André Cruz
+│  ├─ email: andre@moxy.studio
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cross-spawn
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cross-spawn\LICENSE
+├─ dayjs@1.11.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/iamkun/dayjs
+│  ├─ publisher: iamkun
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\dayjs
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\dayjs\LICENSE
+├─ debug@2.6.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\debug
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\debug\LICENSE
+├─ debug@4.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/debug-js/debug
+│  ├─ publisher: Josh Junon
+│  ├─ url: https://github.com/qix-
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\debug
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\debug\LICENSE
+├─ define-data-property@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/define-data-property
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\define-data-property
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\define-data-property\LICENSE
+├─ delegates@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-delegates
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\delegates
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\delegates\License
+├─ depd@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\depd
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\depd\LICENSE
+├─ destroy@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/destroy
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\destroy
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\destroy\LICENSE
+├─ detect-libc@2.0.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/lovell/detect-libc
+│  ├─ publisher: Lovell Fuller
+│  ├─ email: npm@lovell.info
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\detect-libc
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\detect-libc\LICENSE
+├─ diff@4.0.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/kpdecker/jsdiff
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\diff
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\diff\LICENSE
+├─ dotenv@16.4.5
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\dotenv
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\dotenv\LICENSE
+├─ eastasianwidth@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/komagata/eastasianwidth
+│  ├─ publisher: Masaki Komagata
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\eastasianwidth
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\eastasianwidth\README.md
+├─ ecdsa-sig-formatter@1.0.11
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/Brightspace/node-ecdsa-sig-formatter
+│  ├─ publisher: D2L Corporation
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ecdsa-sig-formatter
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ecdsa-sig-formatter\LICENSE
+├─ ee-first@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonathanong/ee-first
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ee-first
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ee-first\LICENSE
+├─ emoji-regex@8.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/emoji-regex
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\emoji-regex
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\emoji-regex\LICENSE-MIT.txt
+├─ emoji-regex@9.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/emoji-regex
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\emoji-regex
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\emoji-regex\LICENSE-MIT.txt
+├─ encodeurl@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/encodeurl
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\encodeurl
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\encodeurl\LICENSE
+├─ es-define-property@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-define-property
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\es-define-property
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\es-define-property\LICENSE
+├─ es-errors@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-errors
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\es-errors
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\es-errors\LICENSE
+├─ escalade@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/escalade
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: https://lukeed.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\escalade
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\escalade\license
+├─ escape-html@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/escape-html
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\escape-html
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\escape-html\LICENSE
+├─ etag@1.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/etag
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\etag
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\etag\LICENSE
+├─ express-validator@7.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/express-validator/express-validator
+│  ├─ publisher: Christoph Tavan
+│  ├─ email: dev@tavan.de
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\express-validator
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\express-validator\LICENSE
+├─ express@4.19.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/express
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\express
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\express\LICENSE
+├─ fill-range@7.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/fill-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fill-range
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fill-range\LICENSE
+├─ finalhandler@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/finalhandler
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\finalhandler
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\finalhandler\LICENSE
+├─ foreground-child@3.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/tapjs/foreground-child
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\foreground-child
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\foreground-child\LICENSE
+├─ forwarded@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/forwarded
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\forwarded
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\forwarded\LICENSE
+├─ fresh@0.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/fresh
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fresh
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fresh\LICENSE
+├─ fs-minipass@2.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/fs-minipass
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fs-minipass
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fs-minipass\LICENSE
+├─ fs.realpath@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fs.realpath
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fs.realpath
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fs.realpath\LICENSE
+├─ function-bind@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\function-bind
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\function-bind\LICENSE
+├─ gauge@3.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/gauge
+│  ├─ publisher: Rebecca Turner
+│  ├─ email: me@re-becca.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\gauge
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\gauge\LICENSE
+├─ get-caller-file@2.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/stefanpenner/get-caller-file
+│  ├─ publisher: Stefan Penner
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\get-caller-file
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\get-caller-file\LICENSE.md
+├─ get-intrinsic@1.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-intrinsic
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\get-intrinsic
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\get-intrinsic\LICENSE
+├─ glob-parent@5.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/gulpjs/glob-parent
+│  ├─ publisher: Gulp Team
+│  ├─ email: team@gulpjs.com
+│  ├─ url: https://gulpjs.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\glob-parent
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\glob-parent\LICENSE
+├─ glob@10.4.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: https://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\glob
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\glob\LICENSE
+├─ glob@7.2.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\glob
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\glob\LICENSE
+├─ gopd@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/gopd
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\gopd
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\gopd\LICENSE
+├─ has-flag@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-flag
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-flag\license
+├─ has-flag@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chalk\node_modules\has-flag
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chalk\node_modules\has-flag\license
+├─ has-property-descriptors@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-property-descriptors
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-property-descriptors
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-property-descriptors\LICENSE
+├─ has-proto@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-proto
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-proto
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-proto\LICENSE
+├─ has-symbols@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-symbols
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-symbols
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-symbols\LICENSE
+├─ has-unicode@2.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/has-unicode
+│  ├─ publisher: Rebecca Turner
+│  ├─ email: me@re-becca.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-unicode
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\has-unicode\LICENSE
+├─ hasown@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/hasOwn
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\hasown
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\hasown\LICENSE
+├─ highlight.js@10.7.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/highlightjs/highlight.js
+│  ├─ publisher: Ivan Sagalaev
+│  ├─ email: maniac@softwaremaniacs.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\highlight.js
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\highlight.js\LICENSE
+├─ http-errors@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-errors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\http-errors
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\http-errors\LICENSE
+├─ https-proxy-agent@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-https-proxy-agent
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\https-proxy-agent
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\https-proxy-agent\README.md
+├─ iconv-lite@0.4.24
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashtuchkin/iconv-lite
+│  ├─ publisher: Alexander Shtuchkin
+│  ├─ email: ashtuchkin@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\iconv-lite
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\iconv-lite\LICENSE
+├─ ieee754@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/feross/ieee754
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ieee754
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ieee754\LICENSE
+├─ ignore-by-default@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/novemberborn/ignore-by-default
+│  ├─ publisher: Mark Wubben
+│  ├─ url: https://novemberborn.net/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ignore-by-default
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ignore-by-default\LICENSE
+├─ inflight@1.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/inflight
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\inflight
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\inflight\LICENSE
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\inherits
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\inherits\LICENSE
+├─ ipaddr.js@1.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/whitequark/ipaddr.js
+│  ├─ publisher: whitequark
+│  ├─ email: whitequark@whitequark.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ipaddr.js
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ipaddr.js\LICENSE
+├─ is-binary-path@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-binary-path
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-binary-path
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-binary-path\license
+├─ is-extglob@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extglob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-extglob
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-extglob\LICENSE
+├─ is-fullwidth-code-point@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-fullwidth-code-point
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-fullwidth-code-point
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-fullwidth-code-point\license
+├─ is-glob@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/is-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-glob
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-glob\LICENSE
+├─ is-number@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-number
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-number
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\is-number\LICENSE
+├─ isexe@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/isexe
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\isexe
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\isexe\LICENSE
+├─ jackspeak@3.4.0
+│  ├─ licenses: BlueOak-1.0.0
+│  ├─ repository: https://github.com/isaacs/jackspeak
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jackspeak
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jackspeak\LICENSE.md
+├─ jsonwebtoken@9.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/auth0/node-jsonwebtoken
+│  ├─ publisher: auth0
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jsonwebtoken
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jsonwebtoken\LICENSE
+├─ jwa@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianloveswords/node-jwa
+│  ├─ publisher: Brian J. Brennan
+│  ├─ email: brianloveswords@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jwa
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jwa\LICENSE
+├─ jws@3.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianloveswords/node-jws
+│  ├─ publisher: Brian J Brennan
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jws
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\jws\LICENSE
+├─ libphonenumber-js@1.11.3
+│  ├─ licenses: MIT
+│  ├─ repository: git+https://gitlab.com/catamphetamine/libphonenumber-js
+│  ├─ publisher: catamphetamine
+│  ├─ email: purecatamphetamine@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\libphonenumber-js
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\libphonenumber-js\LICENSE
+├─ lodash.includes@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.includes
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.includes\LICENSE
+├─ lodash.isboolean@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isboolean
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isboolean\LICENSE
+├─ lodash.isinteger@4.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isinteger
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isinteger\LICENSE
+├─ lodash.isnumber@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isnumber
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isnumber\LICENSE
+├─ lodash.isplainobject@4.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isplainobject
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isplainobject\LICENSE
+├─ lodash.isstring@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isstring
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.isstring\LICENSE
+├─ lodash.once@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.once
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash.once\LICENSE
+├─ lodash@4.17.21
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lodash\LICENSE
+├─ lru-cache@10.2.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-lru-cache
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lru-cache
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\lru-cache\LICENSE
+├─ make-dir@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/make-dir
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\make-dir
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\make-dir\license
+├─ make-error@1.3.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/JsCommunity/make-error
+│  ├─ publisher: Julien Fontanet
+│  ├─ email: julien.fontanet@isonoe.net
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\make-error
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\make-error\LICENSE
+├─ media-typer@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/media-typer
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\media-typer
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\media-typer\LICENSE
+├─ merge-descriptors@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/merge-descriptors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\merge-descriptors
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\merge-descriptors\LICENSE
+├─ methods@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/methods
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\methods
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\methods\LICENSE
+├─ mime-db@1.52.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mime-db
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mime-db\LICENSE
+├─ mime-types@2.1.35
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mime-types
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mime-types\LICENSE
+├─ mime@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/node-mime
+│  ├─ publisher: Robert Kieffer
+│  ├─ email: robert@broofa.com
+│  ├─ url: http://github.com/broofa
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mime
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mime\LICENSE
+├─ minimatch@3.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\minimatch
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\minimatch\LICENSE
+├─ minimatch@9.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\minimatch
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\minimatch\LICENSE
+├─ minipass@3.3.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minipass
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fs-minipass\node_modules\minipass
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\fs-minipass\node_modules\minipass\LICENSE
+├─ minipass@5.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minipass
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\minipass
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\minipass\LICENSE
+├─ minipass@7.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minipass
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\minipass
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\minipass\LICENSE
+├─ minizlib@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/minizlib
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\minizlib
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\minizlib\LICENSE
+├─ mkdirp@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/node-mkdirp
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mkdirp
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mkdirp\LICENSE
+├─ mkdirp@2.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/node-mkdirp
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\mkdirp
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\mkdirp\LICENSE
+├─ ms@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/ms
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ms
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ms\license.md
+├─ ms@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/ms
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\ms
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\node_modules\ms\license.md
+├─ ms@2.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/ms
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\send\node_modules\ms
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\send\node_modules\ms\license.md
+├─ mz@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/normalize/mz
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mz
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\mz\LICENSE
+├─ negotiator@0.6.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/negotiator
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\negotiator
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\negotiator\LICENSE
+├─ node-addon-api@5.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/node-addon-api
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\node-addon-api
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\node-addon-api\LICENSE.md
+├─ node-fetch@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bitinn/node-fetch
+│  ├─ publisher: David Frank
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\node-fetch
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\node-fetch\LICENSE.md
+├─ nodemon@3.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/remy/nodemon
+│  ├─ publisher: Remy Sharp
+│  ├─ url: https://github.com/remy
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\nodemon
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\nodemon\LICENSE
+├─ nopt@5.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/nopt
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\nopt
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\nopt\LICENSE
+├─ normalize-path@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/normalize-path
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\normalize-path
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\normalize-path\LICENSE
+├─ npmlog@5.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/npmlog
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\npmlog
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\npmlog\LICENSE
+├─ object-assign@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\object-assign
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\object-assign\license
+├─ object-inspect@1.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/object-inspect
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\object-inspect
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\object-inspect\LICENSE
+├─ on-finished@2.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-finished
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\on-finished
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\on-finished\LICENSE
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\once
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\once\LICENSE
+├─ parse5-htmlparser2-tree-adapter@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parse5-htmlparser2-tree-adapter
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parse5-htmlparser2-tree-adapter\LICENSE
+├─ parse5@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parse5
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parse5\LICENSE
+├─ parse5@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parse5-htmlparser2-tree-adapter\node_modules\parse5
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parse5-htmlparser2-tree-adapter\node_modules\parse5\LICENSE
+├─ parseurl@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/parseurl
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parseurl
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\parseurl\LICENSE
+├─ path-is-absolute@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-is-absolute
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-is-absolute
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-is-absolute\license
+├─ path-key@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-key
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-key
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-key\license
+├─ path-scurry@1.11.1
+│  ├─ licenses: BlueOak-1.0.0
+│  ├─ repository: https://github.com/isaacs/path-scurry
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: https://blog.izs.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-scurry
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-scurry\LICENSE.md
+├─ path-to-regexp@0.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/path-to-regexp
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-to-regexp
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\path-to-regexp\LICENSE
+├─ pg-cloudflare@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-cloudflare
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-cloudflare\LICENSE
+├─ pg-connection-string@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ publisher: Blaine Bublitz
+│  ├─ email: blaine@iceddev.com
+│  ├─ url: http://iceddev.com/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-connection-string
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-connection-string\LICENSE
+├─ pg-int8@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/charmander/pg-int8
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-int8
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-int8\LICENSE
+├─ pg-pool@3.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ publisher: Brian M. Carlson
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-pool
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-pool\LICENSE
+├─ pg-protocol@1.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-protocol
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-protocol\LICENSE
+├─ pg-types@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-pg-types
+│  ├─ publisher: Brian M. Carlson
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-types
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg-types\README.md
+├─ pg@8.13.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianc/node-postgres
+│  ├─ publisher: Brian Carlson
+│  ├─ email: brian.m.carlson@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pg\LICENSE
+├─ pgpass@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hoegaarden/pgpass
+│  ├─ publisher: Hannes Hörl
+│  ├─ email: hannes.hoerl+pgpass@snowreporter.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pgpass
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pgpass\README.md
+├─ picomatch@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/picomatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\picomatch
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\picomatch\LICENSE
+├─ postgres-array@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-array
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-array
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-array\license
+├─ postgres-bytea@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-bytea
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-bytea
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-bytea\license
+├─ postgres-date@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-date
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-date
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-date\license
+├─ postgres-interval@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/postgres-interval
+│  ├─ publisher: Ben Drucker
+│  ├─ email: bvdrucker@gmail.com
+│  ├─ url: bendrucker.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-interval
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\postgres-interval\license
+├─ proxy-addr@2.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/proxy-addr
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\proxy-addr
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\proxy-addr\LICENSE
+├─ pstree.remy@1.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/remy/pstree
+│  ├─ publisher: Remy Sharp
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pstree.remy
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\pstree.remy\LICENSE
+├─ qs@6.11.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\qs
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\qs\LICENSE.md
+├─ range-parser@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/range-parser
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\range-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\range-parser\LICENSE
+├─ raw-body@2.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/raw-body
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\raw-body
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\raw-body\LICENSE
+├─ readable-stream@3.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\readable-stream
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\readable-stream\LICENSE
+├─ readdirp@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/readdirp
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ email: thlorenz@gmx.de
+│  ├─ url: thlorenz.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\readdirp
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\readdirp\LICENSE
+├─ reflect-metadata@0.2.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/rbuckton/reflect-metadata
+│  ├─ publisher: Ron Buckton
+│  ├─ email: ron.buckton@microsoft.com
+│  ├─ url: http://github.com/rbuckton
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\reflect-metadata
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\reflect-metadata\LICENSE
+├─ require-directory@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/troygoode/node-require-directory
+│  ├─ publisher: Troy Goode
+│  ├─ email: troygoode@gmail.com
+│  ├─ url: http://github.com/troygoode/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\require-directory
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\require-directory\LICENSE
+├─ rimraf@3.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/rimraf
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\rimraf
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\rimraf\LICENSE
+├─ safe-buffer@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\safe-buffer
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\safe-buffer\LICENSE
+├─ safer-buffer@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ChALkeR/safer-buffer
+│  ├─ publisher: Nikita Skovoroda
+│  ├─ email: chalkerx@gmail.com
+│  ├─ url: https://github.com/ChALkeR
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\safer-buffer
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\safer-buffer\LICENSE
+├─ semver@6.3.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ publisher: GitHub Inc.
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\make-dir\node_modules\semver
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\make-dir\node_modules\semver\LICENSE
+├─ semver@7.6.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ publisher: GitHub Inc.
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\semver
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\semver\LICENSE
+├─ send@0.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/send
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\send
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\send\LICENSE
+├─ serve-static@1.15.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/serve-static
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\serve-static
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\serve-static\LICENSE
+├─ server@1.0.0
+│  ├─ licenses: MIT
+│  └─ path: D:\Projects\ztu\backend-kurswork-Eatme\server
+├─ set-blocking@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/set-blocking
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\set-blocking
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\set-blocking\LICENSE.txt
+├─ set-function-length@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/set-function-length
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\set-function-length
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\set-function-length\LICENSE
+├─ setprototypeof@1.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/wesleytodd/setprototypeof
+│  ├─ publisher: Wes Todd
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\setprototypeof
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\setprototypeof\LICENSE
+├─ sha.js@2.4.11
+│  ├─ licenses: (MIT AND BSD-3-Clause)
+│  ├─ repository: https://github.com/crypto-browserify/sha.js
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: dominictarr.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\sha.js
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\sha.js\LICENSE
+├─ shebang-command@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevva/shebang-command
+│  ├─ publisher: Kevin Mårtensson
+│  ├─ email: kevinmartensson@gmail.com
+│  ├─ url: github.com/kevva
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\shebang-command
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\shebang-command\license
+├─ shebang-regex@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/shebang-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\shebang-regex
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\shebang-regex\license
+├─ side-channel@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/side-channel
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\side-channel
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\side-channel\LICENSE
+├─ signal-exit@3.0.7
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/tapjs/signal-exit
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\signal-exit
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\signal-exit\LICENSE.txt
+├─ signal-exit@4.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/tapjs/signal-exit
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\foreground-child\node_modules\signal-exit
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\foreground-child\node_modules\signal-exit\LICENSE.txt
+├─ simple-update-notifier@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/alexbrazier/simple-update-notifier
+│  ├─ publisher: alexbrazier
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\simple-update-notifier
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\simple-update-notifier\LICENSE
+├─ split2@4.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/mcollina/split2
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\split2
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\split2\LICENSE
+├─ statuses@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/statuses
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\statuses
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\statuses\LICENSE
+├─ string-width@4.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\string-width
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\string-width\license
+├─ string-width@5.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\string-width
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\string-width\license
+├─ string_decoder@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/string_decoder
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\string_decoder
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\string_decoder\LICENSE
+├─ strip-ansi@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\strip-ansi
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\strip-ansi\license
+├─ strip-ansi@7.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\strip-ansi
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\strip-ansi\license
+├─ supports-color@5.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\supports-color
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\supports-color\license
+├─ supports-color@7.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chalk\node_modules\supports-color
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\chalk\node_modules\supports-color\license
+├─ tar@6.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-tar
+│  ├─ publisher: GitHub Inc.
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\tar
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\tar\LICENSE
+├─ thenify-all@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thenables/thenify-all
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\thenify-all
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\thenify-all\LICENSE
+├─ thenify@3.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thenables/thenify
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\thenify
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\thenify\LICENSE
+├─ to-regex-range@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/to-regex-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\to-regex-range
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\to-regex-range\LICENSE
+├─ toidentifier@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/toidentifier
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\toidentifier
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\toidentifier\LICENSE
+├─ touch@3.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-touch
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\touch
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\touch\LICENSE
+├─ tr46@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Sebmaster/tr46.js
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: npm@smayr.name
+│  └─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\tr46
+├─ ts-node@10.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TypeStrong/ts-node
+│  ├─ publisher: Blake Embrey
+│  ├─ email: hello@blakeembrey.com
+│  ├─ url: http://blakeembrey.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ts-node
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\ts-node\LICENSE
+├─ tslib@2.6.3
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\tslib
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\tslib\LICENSE.txt
+├─ type-is@1.6.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/type-is
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\type-is
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\type-is\LICENSE
+├─ typeorm@0.3.20
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/typeorm/typeorm
+│  ├─ publisher: Umed Khudoiberdiev
+│  ├─ email: pleerock.me@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typeorm\README.md
+├─ typescript@4.5.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/Microsoft/TypeScript
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typescript
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\typescript\LICENSE.txt
+├─ undefsafe@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/remy/undefsafe
+│  ├─ publisher: Remy Sharp
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\undefsafe
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\undefsafe\LICENSE
+├─ unpipe@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/unpipe
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\unpipe
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\unpipe\LICENSE
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\util-deprecate
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\util-deprecate\LICENSE
+├─ utils-merge@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jaredhanson/utils-merge
+│  ├─ publisher: Jared Hanson
+│  ├─ email: jaredhanson@gmail.com
+│  ├─ url: http://www.jaredhanson.net/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\utils-merge
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\utils-merge\LICENSE
+├─ uuid@9.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/uuidjs/uuid
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\uuid
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\uuid\LICENSE.md
+├─ v8-compile-cache-lib@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cspotcode/v8-compile-cache-lib
+│  ├─ publisher: Andrew Bradley
+│  ├─ email: cspotcode@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\v8-compile-cache-lib
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\v8-compile-cache-lib\LICENSE
+├─ validator@13.12.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/validatorjs/validator.js
+│  ├─ publisher: Chris O'Hara
+│  ├─ email: cohara87@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\validator
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\validator\LICENSE
+├─ vary@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/vary
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\vary
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\vary\LICENSE
+├─ webidl-conversions@3.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\webidl-conversions
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\webidl-conversions\LICENSE.md
+├─ whatwg-url@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\whatwg-url
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\whatwg-url\LICENSE.txt
+├─ which@2.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-which
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\which
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\which\LICENSE
+├─ wide-align@1.1.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/iarna/wide-align
+│  ├─ publisher: Rebecca Turner
+│  ├─ email: me@re-becca.org
+│  ├─ url: http://re-becca.org/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\wide-align
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\wide-align\LICENSE
+├─ wrap-ansi@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/wrap-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\wrap-ansi
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\wrap-ansi\license
+├─ wrap-ansi@8.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/wrap-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\wrap-ansi
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\@isaacs\cliui\node_modules\wrap-ansi\license
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\wrappy
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\wrappy\LICENSE
+├─ xtend@4.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/xtend
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\xtend
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\xtend\LICENSE
+├─ y18n@5.0.8
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/y18n
+│  ├─ publisher: Ben Coe
+│  ├─ email: bencoe@gmail.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\y18n
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\y18n\LICENSE
+├─ yallist@4.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/yallist
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yallist
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yallist\LICENSE
+├─ yargs-parser@20.2.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/yargs-parser
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight\node_modules\yargs-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight\node_modules\yargs-parser\LICENSE.txt
+├─ yargs-parser@21.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/yargs-parser
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yargs-parser
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yargs-parser\LICENSE.txt
+├─ yargs@16.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yargs/yargs
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight\node_modules\yargs
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\cli-highlight\node_modules\yargs\LICENSE
+├─ yargs@17.7.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yargs/yargs
+│  ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yargs
+│  └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yargs\LICENSE
+└─ yn@3.1.1
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/sindresorhus/yn
+   ├─ publisher: Sindre Sorhus
+   ├─ email: sindresorhus@gmail.com
+   ├─ url: sindresorhus.com
+   ├─ path: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yn
+   └─ licenseFile: D:\Projects\ztu\backend-kurswork-Eatme\server\node_modules\yn\license
