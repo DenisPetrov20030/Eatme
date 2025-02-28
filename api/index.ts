@@ -12,6 +12,7 @@ import ProductRouter from './src/routes/ProductRouter'
 import CartRouter from './src/routes/CartRouter'
 import CommentRouter from './src/routes/CommentRouter'
 import WishlistItemRouter from './src/routes/WishlistItemRouter'
+import { setupSwagger } from './swagger'
 
 const app = express()
 const PORT = process.env.PORT || 5000
@@ -30,6 +31,7 @@ app.use('/api/comments', CommentRouter)
 app.use('/api/products', ProductRouter)
 app.use('/api/cart', CartRouter)
 app.use('/api/wishlist', WishlistItemRouter)
+setupSwagger(app)
 app.use(errorMiddleware)
 
 const start = async () => {
