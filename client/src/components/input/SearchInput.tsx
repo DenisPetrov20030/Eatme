@@ -2,11 +2,31 @@ import { MagnifyingGlassIcon } from '@heroicons/react/24/solid';
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const SearchInput: React.FC = () => {
+/**
+ * SearchInput component provides a search form with input field and submit button
+ * 
+ * @component
+ * @returns {JSX.Element} A search input field with a magnifying glass icon button
+ */
+const SearchInput: React.FC = (): JSX.Element => {
+  /**
+   * State to track the current search term entered by the user
+   * @type {string}
+   */
   const [searchTerm, setSearchTerm] = useState('');
+  
+  /**
+   * Navigation hook to redirect user after search submission
+   */
   const navigate = useNavigate();
 
-  const handleSubmit = (e: React.FormEvent) => {
+  /**
+   * Handles form submission by navigating to search results page with query parameter
+   * 
+   * @param {React.FormEvent} e - Form submission event
+   * @returns {void}
+   */
+  const handleSubmit = (e: React.FormEvent): void => {
     e.preventDefault();
     if (searchTerm.trim()) {
       navigate(`/search?query=${searchTerm}`);

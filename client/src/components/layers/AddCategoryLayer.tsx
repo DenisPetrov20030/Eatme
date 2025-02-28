@@ -2,14 +2,52 @@ import React, { useState } from 'react';
 import { useGetAllCategories, useCreateCategory } from '@/hooks/useCategory';
 import { Category } from '@/types/category/Category';
 
-const AddCategoryLayer: React.FC = () => {
+/**
+ * AddCategoryLayer component provides a form for creating new product categories
+ * with options for name, image URL, and parent category selection
+ * 
+ * @component
+ * @returns {JSX.Element} A form with inputs for category creation
+ */
+const AddCategoryLayer: React.FC = (): JSX.Element => {
+  /**
+   * State for the new category name
+   * @type {string}
+   */
   const [categoryName, setCategoryName] = useState('');
+  
+  /**
+   * State for the new category image URL
+   * @type {string}
+   */
   const [imageUrl, setImageUrl] = useState('');
+  
+  /**
+   * State for the selected parent category ID
+   * @type {number|null}
+   */
   const [parentCategoryId, setParentCategoryId] = useState<number | null>(null);
+  
+  /**
+   * Custom hook to fetch all available categories for parent selection
+   * @type {Object} Result containing categories data
+   */
   const { data: categories } = useGetAllCategories();
+  
+  /**
+   * Custom hook that provides mutation function to create a new category
+   */
   const createCategory = useCreateCategory();
 
-  const handleAddCategory = async () => {
+  /**
+   * Handles the submission of the new category form
+   * Creates a new category with the provided data and resets form fields
+   * 
+   * @async
+   * @function
+   * @returns {Promise<void>}
+   */
+  const handleAddCategory = async (): Promise<void> => {
     const parentCategory = categories?.find(cat => cat.id === parentCategoryId) || undefined;
 
     await createCategory.mutateAsync({

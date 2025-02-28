@@ -1,4 +1,10 @@
-const Footer = () => {
+/**
+ * Footer component displays the site footer with copyright information and navigation links
+ * 
+ * @component
+ * @returns {JSX.Element} A footer with copyright text and links to important pages
+ */
+const Footer = (): JSX.Element => {
   return (
     <footer className="bg-black p-4 mt-10">
       <div className="container mx-auto text-center text-white">

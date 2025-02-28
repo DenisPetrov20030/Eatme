@@ -3,15 +3,61 @@ import { useNavigate } from 'react-router-dom';
 import useUserStore from '@/store/UserStore';
 import { useChangePassword } from '@/hooks/useUser';
 
+/**
+ * ChangePasswordLayer component provides a form for users to change their account password
+ * with validation and error handling
+ * 
+ * @component
+ * @returns {JSX.Element} A form with inputs for password change
+ */
 const ChangePasswordLayer: React.FC = () => {
+  /**
+   * State for the user's current password
+   * @type {string}
+   */
   const [currentPassword, setCurrentPassword] = useState('');
+  
+  /**
+   * State for the user's new password
+   * @type {string}
+   */
   const [newPassword, setNewPassword] = useState('');
+  
+  /**
+   * State for the password confirmation
+   * @type {string}
+   */
   const [confirmPassword, setConfirmPassword] = useState('');
+  
+  /**
+   * State for error messages
+   * @type {string}
+   */
   const [errorMessage, setErrorMessage] = useState('');
+  
+  /**
+   * Navigation hook for redirecting after password change
+   */
   const navigate = useNavigate();
+  
+  /**
+   * User data from global store
+   */
   const { user } = useUserStore();
+  
+  /**
+   * Custom hook that provides mutation function to change user password
+   */
   const changePasswordMutation = useChangePassword();
 
+  /**
+   * Handles the password change form submission
+   * Validates inputs and sends request to update password
+   * 
+   * @async
+   * @function
+   * @returns {Promise<void>}
+   */
   const handleChangePassword = async () => {
     if (!currentPassword || !newPassword || !confirmPassword) {
       setErrorMessage('Please fill in all fields.');

@@ -4,21 +4,83 @@ import { useGetAllCategories } from '@/hooks/useCategory';
 import { useCreateProduct } from '@/hooks/useProducts';
 import { fileToDataURL } from '@/utils/utils';
 
+/**
+ * AddProductLayer component provides a form for creating new products
+ * with various properties like name, price, description, categories, and images
+ * 
+ * @component
+ * @returns {JSX.Element} A form with inputs for product creation
+ */
 const AddProductLayer: React.FC = () => {
+    /**
+     * State for the new product name
+     * @type {string}
+     */
     const [productName, setProductName] = useState('');
+    
+    /**
+     * State for the new product price
+     * @type {number}
+     */
     const [productPrice, setProductPrice] = useState(0);
+    
+    /**
+     * State for the product image URL (base64)
+     * @type {string}
+     */
     const [imageUrl, setImageUrl] = useState('');
+    
+    /**
+     * State for the selected image file
+     * @type {File|null}
+     */
     const [selectedFile, setSelectedFile] = useState<File | null>(null);
+    
+    /**
+     * State for the product description
+     * @type {string}
+     */
     const [productDescription, setProductDescription] = useState('');
+    
+    /**
+     * State for the selected product categories
+     * @type {Category[]}
+     */
     const [selectedCategories, setSelectedCategories] = useState<Category[]>([]);
+    
+    /**
+     * State for the product quantity/stock
+     * @type {number}
+     */
     const [productQuantity, setProductQuantity] = useState(0);
+    
+    /**
+     * Custom hook to fetch all available categories
+     * @type {Object} Result containing categories data
+     */
     const { data: categories } = useGetAllCategories();
+    
+    /**
+     * Custom hook that provides mutation function to create a new product
+     */
     const createProduct = useCreateProduct();
     
+    /**
+     * Formats selected categories to match API requirements
+     * @type {Object[]}
+     */
     const formattedCategories = selectedCategories.map(category => ({
         id: category.id.toString(),
     }));
     
+    /**
+     * Handles the submission of the new product form
+     * Creates a new product with the provided data and resets form fields
+     * 
+     * @async
+     * @function
+     * @returns {Promise<void>}
+     */
     const handleAddProduct = async () => {
         try {
             let base64String = imageUrl;
@@ -49,6 +111,13 @@ const AddProductLayer: React.FC = () => {
         }
     };
   
+    /**
+     * Handles category selection/deselection
+     * 
+     * @function
+     * @param {Category} category - The category being toggled
+     * @returns {void}
+     */
     const handleCategoryChange = (category: Category) => {
         setSelectedCategories(prev => {
             if (prev.find(cat => cat.id === category.id)) {
@@ -59,6 +128,14 @@ const AddProductLayer: React.FC = () => {
         });
     };
 
+    /**
+     * Handles file selection and converts it to base64 format
+     * 
+     * @async
+     * @function
+     * @param {React.ChangeEvent<HTMLInputElement>} e - File input change event
+     * @returns {Promise<void>}
+     */
     const handleFileChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
         if (e.target.files && e.target.files[0]) {
             const file = e.target.files[0];

@@ -1,17 +1,44 @@
 import { ProductImage } from '@/types/products/ProductImage';
 import React from 'react';
 
+/**
+ * Props for the ImageCarousel component
+ * @interface ImageCarouselProps
+ * @property {ProductImage[]} images - Array of product images to display in the carousel
+ */
 interface ImageCarouselProps {
   images: ProductImage[];
 }
 
+/**
+ * ImageCarousel component displays a set of product images in a carousel format
+ * with navigation controls
+ * 
+ * @component
+ * @param {ImageCarouselProps} props - Component props
+ * @returns {JSX.Element} A carousel with product images and navigation buttons
+ */
 const ImageCarousel: React.FC<ImageCarouselProps> = ({ images }) => {
+  /**
+   * State to track the currently displayed image index
+   * @type {number}
+   */
   const [currentIndex, setCurrentIndex] = React.useState(0);
 
+  /**
+   * Advances to the next image in the carousel
+   * @function
+   * @returns {void}
+   */
   const nextImage = () => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % images.length);
   };
 
+  /**
+   * Goes back to the previous image in the carousel
+   * @function
+   * @returns {void}
+   */
   const prevImage = () => {
     setCurrentIndex((prevIndex) => (prevIndex - 1 + images.length) % images.length);
   };

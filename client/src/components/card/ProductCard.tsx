@@ -2,18 +2,42 @@ import { useGetProductById } from '@/hooks/useProducts';
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
+/**
+ * Props interface for the ProductCard component
+ * @interface ProductCardProps
+ * @property {string} productId - Unique identifier for the product to display
+ */
 interface ProductCardProps {
   productId: string;
 }
 
+/**
+ * ProductCard component displays a product information in a card layout
+ * 
+ * @component
+ * @param {ProductCardProps} props - Component props
+ * @param {string} props.productId - ID of the product to fetch and display
+ * @returns {JSX.Element} A card with product image, name, description and price
+ */
 const ProductCard: React.FC<ProductCardProps> = ({ productId }) => {
   const navigate = useNavigate();
   const {data: product, isLoading} = useGetProductById(productId)
+  
   if (!product || isLoading){
     return <>Loading...</>
   }
+  
+  /**
+   * Gets the first image URL from product images or returns a placeholder
+   * @type {string}
+   */
   const firstImageUrl = product.images.length > 0 ? product.images[0].imageUrl : 'https://placehold.co/600x400.png';
 
+  /**
+   * Handles card click event by navigating to product details page
+   * @function
+   * @returns {void}
+   */
   const handleClick = () => {
     navigate(`/product/${product.id}`);
   };

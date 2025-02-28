@@ -1,4 +1,3 @@
-// Navbar.tsx
 import React from 'react';
 import useUserStore from '@/store/UserStore';
 import SearchInput from '../input/SearchInput';
