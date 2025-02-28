@@ -3,19 +3,48 @@ import { CartItem } from '@/types/cart/CartItem';
 import { useDeleteCartItem, useUpdateCartItem } from '@/hooks/useCart';
 import { isProduct } from '@/utils/utils';
 
+/**
+ * Props interface for the CartItemCard component
+ * @interface CartItemProps
+ * @property {CartItem} item - The cart item to display
+ */
 interface CartItemProps {
   item: CartItem;
 }
 
+/**
+ * CartItemCard component - Displays a single cart item with product details
+ * and provides functionality to update quantity or remove the item
+ * 
+ * @component
+ * @param {CartItemProps} props - Component props
+ * @returns {JSX.Element} Rendered cart item card
+ */
 const CartItemCard: React.FC<CartItemProps> = ({ item }) => {
   const [quantity, setQuantity] = useState(item.quantity);
   const deleteCartItem = useDeleteCartItem();
   const updateCartItem = useUpdateCartItem();
 
+  /**
+   * Handles the deletion of a cart item
+   * 
+   * @async
+   * @function handleDelete
+   * @returns {Promise<void>}
+   */
   const handleDelete = async () => {
     await deleteCartItem.mutateAsync(item.id);
   };
 
+  /**
+   * Handles quantity changes for the cart item
+   * Updates both local state and server data
+   * 
+   * @async
+   * @function handleQuantityChange
+   * @param {React.ChangeEvent<HTMLInputElement>} e - Change event from input
+   * @returns {Promise<void>}
+   */
   const handleQuantityChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const newQuantity = parseInt(e.target.value);
     if (newQuantity > 0) {
