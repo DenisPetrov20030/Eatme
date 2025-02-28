@@ -102,6 +102,9 @@ server/             # Backend Express application
 ## API Endpoints
 API Overview is available in the Wiki (https://github.com/DenisPetrov20030/Eatme/wiki.).
 
+## Swagger video instruction
+[Watch the video](https://github.com/DenisPetrov20030/Eatme/raw/main/Swagger%20video/2025-02-28-23-44-27.mp4)
+ 
 ## Contributing
 
 1. Fork the repository
