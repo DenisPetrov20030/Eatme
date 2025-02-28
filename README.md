@@ -100,13 +100,7 @@ server/             # Backend Express application
 ```
 
 ## API Endpoints
-
-- `/api/users` - User management
-- `/api/category` - Food categories
-- `/api/products` - Product listings
-- `/api/cart` - Shopping cart operations
-- `/api/comments` - Product reviews and comments
-- `/api/wishlist` - Wishlist management
+API Overview is available in the Wiki (https://github.com/DenisPetrov20030/Eatme/wiki.).
 
 ## Contributing
 
