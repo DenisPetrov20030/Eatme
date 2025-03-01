@@ -104,6 +104,10 @@ API Overview is available in the Wiki (https://github.com/DenisPetrov20030/Eatme
 
 ## Swagger video instruction
 [Watch the video](https://github.com/DenisPetrov20030/Eatme/raw/main/Swagger%20video/2025-02-28-23-44-27.mp4)
+
+## Cookie Popup
+![Cookie Popup 1](https://github.com/DenisPetrov20030/Eatme/raw/main/Cookie%20popup/Сookie_popup_1.jpg)
+![Cookie Popup 2](https://github.com/DenisPetrov20030/Eatme/raw/main/Cookie%20popup/Cookie_popup_2.jpg)
  
 ## Contributing
 
